@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **S_Plus**
 
-- 🌱 I’m currently learning **devOps and MLops**
+- 🌱 I’m currently learning **DevOps and MLOps**
 
 - 📫 How to reach me **tliliahmedmalek@gmail.com**
 
