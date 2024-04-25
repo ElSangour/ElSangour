@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tliliahmedmalek@gmail.com**
 
-- ⚡ Side fact **I'm a gym lover**
+- ⚡ Side fact **I'm a gym rat**
 
 
 <h3 align="left">Connect with me:</h3>
