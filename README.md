@@ -21,6 +21,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=ElSangour&theme=algolia&show_icons=true)](https://github.com/ElSangour)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ElSangour&theme=algolia)](https://git.io/streak-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
