@@ -34,5 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elsangour&show_icons=true&theme=radical&locale=en" alt="elsangour" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elsangour&" alt="elsangour" /></p>
 
