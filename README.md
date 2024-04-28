@@ -3,7 +3,6 @@
 <img align="right" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsangour&label=views&color=57e389&style=plastic" alt="elsangour" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsangour" alt="elsangour" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmedmalektlili" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmalektlili?logo=twitter&style=for-the-badge" alt="ahmedmalektlili" /></a> </p>
 
