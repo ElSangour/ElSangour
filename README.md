@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo19876
-Fork on GitHub5992
 <h1 align="center">Hi 👋, I'm ahmed malek TLILI</h1>
 <h3 align="center">A passionate computer science engineer from Tunisia</h3>
 
