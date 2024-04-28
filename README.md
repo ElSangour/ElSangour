@@ -1,5 +1,5 @@
 <!-- Gitbanner start -->
-![gitbanner]([https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif))
+![gitbanner]([https://camo.githubusercontent.com/372cc81336fdd6c37626741d8bc754bcb263b71f35618bc5d366715b8c772f95/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f616e696d617465642d70726573656e746174696f6e2d736f6674776172652d6865616465722d776964652e676966)
 <!-- Gitbanner start -->
 
 <h1 align="center">Hi 👋, I'm ahmed malek TLILI</h1>
