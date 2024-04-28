@@ -1,3 +1,7 @@
+<!-- Gitbanner start -->
+![gitbanner](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
+<!-- Gitbanner start -->
+
 <h1 align="center">Hi 👋, I'm ahmed malek TLILI</h1>
 <h3 align="center">A passionate computer science engineer from Tunisia</h3>
 <img align="right" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
