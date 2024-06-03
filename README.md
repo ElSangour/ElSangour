@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MLops , DevOps**
 
-- 👯 I’m looking to collaborate on **TDD and BDD testing projects**
+- 👯 I’m looking to collaborate on **TDD and BDD testing or Pipeline CI/CD and automation projects**
 
 - 📫 How to reach me **tliliahmedmalek@gmail.com**
 
