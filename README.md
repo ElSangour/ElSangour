@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedmalek_tli" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmalektlili?logo=twitter&style=for-the-badge" alt="ahmedmalektlili" /></a> </p>
 
-- 🔭 I’m currently working on **Reclami - S+**
+- 🔭 I’m currently working on **  Shoplift detection project - Wisevision AI Technologies **
 
-- 🌱 I’m currently learning **MLops , DevOps**
+- 🌱 I’m currently learning **MLops **
 
 - 👯 I’m looking to collaborate on **TDD and BDD testing or Pipeline CI/CD and automation projects**
 
