@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedmalek_tli" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmalektlili?logo=twitter&style=for-the-badge" alt="ahmedmalektlili" /></a> </p>
 
-- 🔭 I’m currently working on **  Shoplift detection project - Wisevision AI Technologies **
+- 🔭 I’m currently working on **Shoplift detection project - Wisevision AI Technologies**
 
 - 🌱 I’m currently learning **MLops **
 
