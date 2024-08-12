@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Shoplift detection project - Wisevision AI Technologies**
 
-- 🌱 I’m currently learning **MLops **
+- 🌱 I’m currently learning **MLops**
 
 - 👯 I’m looking to collaborate on **TDD and BDD testing or Pipeline CI/CD and automation projects**
 
