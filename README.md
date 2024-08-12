@@ -1,8 +1,8 @@
 <img src="https://camo.githubusercontent.com/372cc81336fdd6c37626741d8bc754bcb263b71f35618bc5d366715b8c772f95/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f616e696d617465642d70726573656e746174696f6e2d736f6674776172652d6865616465722d776964652e676966" >
 
-<div align="center">
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+there+I'm+Ahmed+malek+TLILI)](https://git.io/typing-svg)
-</div>
+</p>
 <h3 align="center">A passionate computer science engineer from Tunisia . </h3>
 <img align="right" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsangour&label=views&color=57e389&style=plastic" alt="elsangour" /> </p>
