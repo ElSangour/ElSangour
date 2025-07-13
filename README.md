@@ -1,6 +1,6 @@
 <img src="https://miro.medium.com/v2/resize:fit:1000/0*uROpBSLaR0q5oL7k.png" >
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There+%2C+I'm+Ahmed+Malek+TLILI)](https://git.io/typing-svg)<h3 align="center">A passionate computer science engineer from Tunisia . </h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There+%2C+I'm+Ahmed+Malek+TLILI+,+An+MLOps+Engineer)](https://git.io/typing-svg)<h3 align="center">A passionate computer science engineer from Tunisia . </h3>
 <img align="right" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsangour&label=views&color=57e389&style=plastic" alt="elsangour" /> </p>
 
@@ -8,15 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedmalek_tli" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmalektlili?logo=twitter&style=for-the-badge" alt="ahmedmalektlili" /></a> </p>
 
-- 🔭 I’m currently working on **Shoplift detection project - Wisevision AI Technologies**
-
-- 🌱 I’m currently learning **MLops**
-
-- 👯 I’m looking to collaborate on **TDD and BDD testing or Pipeline CI/CD and automation projects**
-
-- 📫 How to reach me **tliliahmedmalek@gmail.com**
-
-- ⚡ Fun fact **I'm a gym rat.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
